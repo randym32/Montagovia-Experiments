@@ -1,4 +1,4 @@
-Metaphysics-Engine-.NET
+Montagovia Experiments
 =======================
 
-An implementation of the Metaphysics Engine using the C# and the .NET framework
+A set of experiments for the Montagovia website
